@@ -1,0 +1,7 @@
+# PowerGem Configuration File
+max-gem-level: 10
+base-cooldown: 15
+messages:
+  cooldown: "&cYou must wait {time}s before using this gem again!"
+  gem-received: "&aYou received a level {level} {type}!"
+  level-up: "&eYour {type} leveled up to {level}!"
