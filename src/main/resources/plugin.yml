@@ -1,14 +1,14 @@
-name: PowerGem
+name: PowerBook
 version: 1.0.0
-main: com.phantomsmp.powergem.PowerGemPlugin
+main: com.phantomsmp.powerbook.PowerBookPlugin
 api-version: '1.20'
 commands:
-  gem:
-    description: Main command for PowerGem
-    aliases: [powergem]
-    permission: powergem.use
+  powerbook:
+    description: Main command for PowerBook management
+    aliases: [pb]
+    permission: powerbook.use
 permissions:
-  powergem.use:
+  powerbook.use:
     default: true
-  powergem.admin:
+  powerbook.admin:
     default: op
