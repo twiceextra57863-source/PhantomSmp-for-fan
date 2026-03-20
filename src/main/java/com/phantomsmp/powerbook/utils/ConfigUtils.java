@@ -1,0 +1,1 @@
+package com.phantomsmp.powerbook.utils; public class ConfigUtils {}
