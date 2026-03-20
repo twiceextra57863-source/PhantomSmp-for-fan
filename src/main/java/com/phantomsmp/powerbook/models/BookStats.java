@@ -1,0 +1,1 @@
+package com.phantomsmp.powerbook.models; public class BookStats {}
