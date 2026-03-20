@@ -1,0 +1,1 @@
+package com.phantomsmp.powerbook.gui; public class LeaderboardGUI {}
