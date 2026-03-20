@@ -1,0 +1,1 @@
+package com.phantomsmp.powerbook.managers; public class BookManager {}
