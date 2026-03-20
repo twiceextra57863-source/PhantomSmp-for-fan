@@ -1,0 +1,1 @@
+package com.phantomsmp.powerbook.commands; public class TournamentCommand {}
